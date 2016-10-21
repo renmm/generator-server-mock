@@ -18,6 +18,7 @@ module.exports = yeoman.Base.extend({
       'nodemon',
       'lodash',
       'winston',
+      'ls-sync',
       'ip',
       'chalk',
       'validator',
