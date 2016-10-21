@@ -1,6 +1,6 @@
 {
   "name": "generator-server-mock",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "一个mock server 生成器，基于koa",
   "homepage": "",
   "author": {
